@@ -1,0 +1,4 @@
+#!/bin/bash
+cd /home/kavia/workspace/code-generation/unified-outage-management-platform-67-76/outage_management_frontend
+flutter analyze
+
